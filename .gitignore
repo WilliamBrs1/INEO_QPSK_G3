@@ -1,0 +1,22 @@
+# MATLAB-specific
+*.m~
+*.asv
+*.mat
+
+# Python-specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.env
+*.venv
+.venv/
+.env/
+*.egg-info/
+*.egg
+*.whl
+
+# IDE-specific (optional, if members use common IDEs)
+.vscode/
+.idea/
